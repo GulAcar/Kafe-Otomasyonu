@@ -1,0 +1,14 @@
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe.config
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.pdb
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csprojAssemblyReference.cache
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Form1.resources
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Properties.Resources.resources
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.GenerateResource.cache
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.exe
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.pdb
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Form2.resources
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Form3.resources
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Form4.resources
+C:\Users\skaanb\Desktop\C#\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Form5.resources
